@@ -1,5 +1,5 @@
 
-const CartApi = () => {
+const Orders = () => {
   return (
     <div>
       
@@ -7,4 +7,4 @@ const CartApi = () => {
   )
 }
 
-export default CartApi
+export default Orders
